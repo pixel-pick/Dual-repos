@@ -1,5 +1,3 @@
-﻿string First = null;
-string Second  = null;
-
-
+﻿string Second  = null;
+String First = "https://gzmland.ru/";
 Console.Write(First + " " + Second);
