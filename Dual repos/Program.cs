@@ -2,4 +2,4 @@
 string Second  = "Полностью пустой сайт";
 
 
-Console.Write(First + " " + Second);
+Console.Write(First + " "  + Second);
