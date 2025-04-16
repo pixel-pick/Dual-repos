@@ -1,5 +1,5 @@
 ﻿string First = null;
-string Second  = null;
+string Second  = "Полностью пустой сайт";
 
 
 Console.Write(First + " " + Second);
